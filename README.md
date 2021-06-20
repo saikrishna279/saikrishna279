@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Krishna</h1>
-<h3 align="center">Android App Developer.</h3>
+<h3 align="center">Android App Developer. I make and break stuff.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikrishna279&label=Profile%20views&color=0e75b6&style=flat" alt="saikrishna279" /> </p>
 
